@@ -1,0 +1,2 @@
+# demo_book_manager_config
+Configuration of demo_book_manager
